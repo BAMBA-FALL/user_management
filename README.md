@@ -67,11 +67,6 @@ Un formulaire en bas de l'écran permet d'ajouter un nouvel utilisateur avec un 
 - Amélioration de l'interface utilisateur pour une meilleure ergonomie.
 - Intégration d'une API REST pour synchroniser les utilisateurs avec un backend distant.
 
-## Contributeurs
-
-- [Souleymane Sall](https://github.com/Pvpasall)
-- [El Hadji Mamadou Sarr](https://github.com/el-hadji-mamadou-sarr)
-
 ## Licence
 
 Ce projet est sous licence MIT. Vous pouvez en savoir plus dans le fichier `LICENSE`.
